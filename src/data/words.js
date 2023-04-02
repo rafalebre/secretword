@@ -1,11 +1,11 @@
 export const wordsList = {
-    carparts: ["Engine", "Doors", "Brakes", "Battery", "Transmission"],
-    fruits: ["Pomegranate", "Pineapple", "Peach", "Tangerine", "Banana"],
-    body: ["Head", "Shoulder", "Brain", "Neck", "Feet"],
-    computer: ["Mouse", "Keyboard", "Monitor", "Motherboard"],
-    programming: ["Language", "Framework", "JavaScript", "React"],
-    food: ["Rice", "Beans", "Meet", "Milk", "Eggs"],
-    animals: ["Cheetah", "Leopard", "Tortoise", "Lion", "Bear"],
-    carbrands: ["BMW", "Audi", "Ferrari", "Bentley", "Porsche"]
+    CarParts: ["Engine", "Doors", "Brakes", "Battery", "Transmission"],
+    Fruit: ["Pomegranate", "Pineapple", "Peach", "Tangerine", "Banana"],
+    Body: ["Head", "Shoulder", "Brain", "Neck", "Feet"],
+    Computer: ["Mouse", "Keyboard", "Monitor", "Motherboard"],
+    Programming: ["Language", "Framework", "JavaScript", "React"],
+    Food: ["Rice", "Beans", "Meet", "Milk", "Eggs"],
+    Animals: ["Cheetah", "Leopard", "Tortoise", "Lion", "Bear"],
+    CarBrands: ["BMW", "Audi", "Ferrari", "Bentley", "Porsche"]
   };
   
