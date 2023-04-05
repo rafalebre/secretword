@@ -100,7 +100,7 @@ const clearLetterStates = () => {
   setWrongLetters([]);
 };
 
-  //check if guesses ended
+  // check if guesses ended
   useEffect (() => {
     if(guesses <= 0) {
       // reset all states
